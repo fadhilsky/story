@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 saya sedang berada di mars
 
 saya dibumi lagi
+=======
+saya sedang berada di mars, sedang makan
+>>>>>>> mars-plot
